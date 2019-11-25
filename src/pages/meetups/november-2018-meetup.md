@@ -1,6 +1,6 @@
 ---
-title: November 2060
-date: 2060-11-09T23:00:00.000Z
+title: November 2080
+date: 2080-11-10T03:00:00.000Z
 presenters:
   - image: /img/jonas-kakaroto-577554-unsplash.jpg
     links:
@@ -26,6 +26,6 @@ location:
   mapsLatitude: 64.843779
   mapsLink: 'https://goo.gl/maps/Rm6ihxVrZGK2'
   mapsLongitude: -147.718189
-  name: Fairbanks Ice Museum
+  name: Fairbanks Ice Museum Hall
 ---
 
