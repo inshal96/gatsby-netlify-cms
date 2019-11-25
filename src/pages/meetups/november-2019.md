@@ -1,7 +1,7 @@
 ---
 templateKey: meetup
-title: November 2019
-date: 2019-11-25T06:54:15.024Z
+title: 'November '
+date: 2090-11-25T06:54:00.000Z
 presenters:
   - name: Name
     presentationTitle: Presentation Title
